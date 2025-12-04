@@ -22,7 +22,7 @@
 
 ### `:: ABOUT ::`
 
-> "My 'Flow State' is finding the balance between reading complex research papers and debugging production code."
+> "My 'Flow State' is finding the balance between reading documentation and debugging code."
 
 I live at the intersection of **AI Research** and **Full Stack Engineering**. I thrive on the challenge of building applications. I am a Master’s graduate in **AI & ML Ops** [NMIMS University] with a passion for building autonomous **Agentic AI systems** and **RAG architectures**.
 
