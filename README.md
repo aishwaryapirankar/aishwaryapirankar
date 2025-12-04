@@ -13,7 +13,7 @@
   <a href="mailto:aishwaryapirankar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://aishwaryapirankar.github.io">
+  <a href="[https://aishwaryapirankar.github.io](https://aishwaryapirankar.netlify.app/)">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </div>
@@ -24,7 +24,7 @@
 
 > "My 'Flow State' is finding the balance between reading complex research papers and debugging production code."
 
-I live at the intersection of **AI Research** and **Full Stack Engineering**. While many engineers specialize in either training models or building apps, I thrive on the challenge of doing both. I am a Master’s graduate in **AI & ML Ops** [NMIMS University] with a passion for building autonomous **Agentic AI systems**, **RAG architectures**, and **Computer Vision** models.
+I live at the intersection of **AI Research** and **Full Stack Engineering**. I thrive on the challenge of building applications. I am a Master’s graduate in **AI & ML Ops** [NMIMS University] with a passion for building autonomous **Agentic AI systems** and **RAG architectures**.
 
 Currently, I am working on:
 * 📱 Building a cross-platform native mobile app for mental health professionals.
@@ -60,9 +60,3 @@ Currently, I am working on:
 | **Coffee Disease Detection** | **(Master's Thesis)** Comparative study using ensemble CNN models for accurate detection of coffee diseases. | `CNN` `Ensemble` `Python` |
 | **Medical Image Segmentation** | Developed a ResNet classifier (98% acc) for tumor detection and ResUNet for localization using LGG-MRI datasets. | `ResNet` `ResUNet` `Keras` |
 | **Old Photo Restoration** | Leverages GFP-GAN architecture to restore color accuracy and sharpness to damaged vintage photographs. | `GFP-GAN` `PyTorch` |
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aishwaryapirankar&show_icons=true&theme=gotham&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwaryapirankar&layout=compact&theme=gotham&hide_border=true" height="150" alt="languages graph" />
-</div>
