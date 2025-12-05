@@ -13,7 +13,7 @@
   <a href="mailto:aishwaryapirankar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://aishwaryapirankar.github.io](https://aishwaryapirankar.netlify.app/)">
+  <a href="https://aishwaryapirankar.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </div>
